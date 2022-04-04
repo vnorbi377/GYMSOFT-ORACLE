@@ -7,7 +7,7 @@ The database is an Oracle Express Edition system.
 The number before the file's name indicates the order in which the files are need to be ran.
 
 - 1create_tables.sql  - CREATE TABLE statements
-- 2create_users.sql - Create users and cosntraints
+- 2create_users.sql - Create users and constraints
 - 3table_constraints.sql - Creating table constraints
 - 4inserts.sql - All the data that are in the tables
 - 5create_packages.sql - Packages that are containing the tables
