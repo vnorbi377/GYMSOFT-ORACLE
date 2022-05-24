@@ -14,4 +14,4 @@ The number before the file's name indicates the order in which the files are nee
 - 6create_triggers.sql - Triggers
 
 ### NOTICE
-This project is still udner development, so bugs may have occur. Comments will be added into the code in the near future.
+This project is still under development, so bugs may have occur. Comments will be added into the code in the near future.
